@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          rudree-s3-github-cicd-action is deployed successfully on AWS S3 bucket using GitHub Actions! 
         </a>
       </header>
     </div>
